@@ -1,2 +1,4 @@
 * Context
 this is a Magit test
+* i'm trying to figure things out
+** this is not easy
